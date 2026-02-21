@@ -1,6 +1,6 @@
 package com.pulse.dto;
 
-import com.pulse.entity.Role;
+import com.pulse.repository.entity.Role;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
